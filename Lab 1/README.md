@@ -1,5 +1,5 @@
 # Основи Python
 
-Зареєструватись на сайті [pythontutor.ru](pythontutor.ru)
+Зареєструватись на сайті [snakify.org](snakify.org)
 
 Виконати індивідуальні завдання для тем 1 - 6.
